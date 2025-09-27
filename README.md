@@ -1,4 +1,4 @@
-# Predicted-heart-failure-risk-consumer-behavior-using-Naive-Bayes-SVM
+# Predicted-heart-failure-risk-consumer-behavior-using-Naive-Bayes
 
 This project applies **Naive Bayes (GaussianNB)** to predict whether a consumer will purchase a product based on **Age** and **Estimated Salary**.  
 
